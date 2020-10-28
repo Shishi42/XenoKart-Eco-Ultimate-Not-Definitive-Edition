@@ -3,5 +3,3 @@
 This project is (not) ok.
 
 xenokart corp. by touklakos inc.
-
-end my life.
